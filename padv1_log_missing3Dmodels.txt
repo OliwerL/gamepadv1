@@ -1,0 +1,1 @@
+[('IC1', 'C:\\Users\\oliwe\\Documents\\KiCad\\padv1\\MCP73871-4CCI_ML.stp'), ('IC2', 'C:\\Users\\oliwe\\Documents\\KiCad\\padv1\\CP2102N-A02-GQFN20.stp')]

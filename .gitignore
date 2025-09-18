@@ -1,0 +1,21 @@
+# Pliki tymczasowe KiCad
+*.bak
+*.bck
+*.lck
+*~*
+
+# Cache KiCada
+fp-info-cache
+*.kicad_prl
+*.kicad_pro-bak
+
+# Build PlatformIO / Arduino
+.pio
+build
+*.elf
+*.bin
+
+# Systemowe
+.DS_Store
+Thumbs.db
+*-backups/
