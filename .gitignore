@@ -3,6 +3,7 @@
 *.bck
 *.lck
 *~*
+_autosave-*.kicad_pcb
 
 # Cache KiCada
 fp-info-cache
@@ -19,3 +20,6 @@ build
 .DS_Store
 Thumbs.db
 *-backups/
+
+*_missing3Dmodels.txt
+*_log_missing3Dmodels.txt
